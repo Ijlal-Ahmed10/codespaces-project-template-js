@@ -35,7 +35,7 @@ const Home = ({ name, title }) => {
           left: "2rem",
           width: "17rem",
           color: "rgba(0,0,0)",
-          textShadow: "0 0 0.25rem beige"
+          textShadow: "0 0 0.25rem beige",
         }}
       >
         <h1>{name}</h1>
